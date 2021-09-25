@@ -1,0 +1,64 @@
+.widgets {
+  width: 22.5%;
+  position: fixed;
+  margin-top: 30px;
+}
+
+.widgets__profile {
+  display: flex;
+  justify-content: space-between;
+}
+
+.widgets__profile a {
+  color: #0597f6;
+  text-decoration: none;
+  margin-top: 5px;
+}
+
+.widgets__group {
+  display: flex;
+}
+
+.widgets__group .MuiAvatar-root {
+  margin-right: 15px;
+}
+
+.widgets__group h3 {
+  font-size: 15px;
+}
+
+.widgets__group p {
+  color: #acacac;
+}
+
+.widgets__suggestion {
+  margin-top: 30px;
+}
+
+.suggestions__head {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #929292;
+}
+
+.suggestions__head > a {
+  font-size: 14px;
+  font-weight: lighter;
+  color: #000;
+}
+
+.widgets__desc {
+  font-size: 14px;
+  margin-top: 20px;
+  color: #929292;
+}
+
+.widgets__footer {
+  font-size: 13px;
+  color: rgb(167, 160, 160);
+  margin: 10px auto;
+  position: relative;
+  letter-spacing: 1px;
+}

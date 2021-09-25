@@ -1,0 +1,74 @@
+.navbar {
+  width: 100%;
+  padding: 15px 0 8px;
+  background-color: #fff;
+  border: 1px solid #dbdbdb;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+
+.navbar__logo {
+  height: 29px;
+}
+
+.navbar__container {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar__search {
+  /* text-align: center; */
+  position: relative;
+  width: 220px;
+  background-color: #fafafa;
+  border: 1px solid #dbdbdb;
+  padding-top: 2px;
+  height: 30px;
+  margin-top: -4px;
+  border-radius: 2px;
+}
+
+.navbar__search .MuiSvgIcon-root {
+  color: #8e8e8e;
+  width: 15px;
+  margin-right: 3px;
+  margin-left: 80px;
+}
+
+.navbar__search input {
+  border: none;
+  position: absolute;
+  top: 6px;
+  outline: none;
+  background-color: transparent;
+}
+
+.navbar__search input::placeholder {
+  font-size: 16px;
+  color: #8e8e8e;
+  font-weight: lighter;
+}
+
+.navbar__icons {
+  display: flex;
+  margin-top: -10px;
+}
+
+.navbar__icons .MuiSvgIcon-root {
+  margin: auto 8px;
+  width: 30px;
+  font-size: 25px;
+}
+
+.navbar__icons .MuiSvgIcon-root::hover {
+  cursor: pointer;
+}
+
+.navbar .MuiAvatar-root {
+  margin: 5px 0 0 8px;
+  width: 30px !important;
+  height: 30px !important;
+}

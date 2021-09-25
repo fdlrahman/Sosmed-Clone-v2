@@ -1,0 +1,68 @@
+.post {
+  width: 100%;
+  background-color: white;
+  margin-top: 20px;
+  border: 1px solid #dbdbdb;
+}
+
+.post__head {
+  padding: 10px 13px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.post__head .post__left {
+  display: flex;
+}
+
+.post__head .post__name {
+  font-weight: 600;
+  margin-top: 10px;
+  margin-left: 10px;
+  color: #535353;
+}
+
+.post__head .icon__more {
+  margin-top: 10px;
+}
+
+.post__body {
+  height: 500px;
+  width: 100%;
+  background-image: url(https://www.spektekno.com/wp-content/uploads/2021/06/Biodata-Unaa-Mieayamthebstt-2-819x1024-1.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.post__foot {
+  padding: 10px 13px;
+}
+
+.post__icons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.post__icons .MuiSvgIcon-root {
+  font-size: 29px;
+  color: #262626;
+}
+
+.post__icons .post__more .MuiSvgIcon-root {
+  margin-right: 13px;
+}
+
+.post__desc {
+  width: 90%;
+  margin-top: 10px;
+}
+
+.post__desc > .desc > strong {
+  margin-right: 5px;
+}
+
+.post__desc > .posted {
+  font-size: 13px;
+  color: #8e8e8e;
+  margin: 15px auto 5px;
+}

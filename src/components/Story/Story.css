@@ -1,0 +1,39 @@
+.story {
+  text-align: center;
+  width: 100px;
+  margin: auto;
+  display: inline-block;
+  margin-right: -10px;
+}
+
+.story:hover {
+  cursor: pointer;
+}
+
+.story__border {
+  width: 68px;
+  height: 68px;
+  background: linear-gradient(212deg, rgba(202, 45, 140, 1) 0%, rgba(249, 157, 76, 1) 100%);
+  border-radius: 50%;
+  margin-left: 16px;
+  text-align: center;
+  position: relative;
+}
+
+.story__avatar {
+  width: 60px;
+  height: 60px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  position: absolute;
+  left: 2px;
+  top: 2px;
+  background-size: cover;
+  background-position: center center;
+}
+
+.story__name {
+  font-size: 14px;
+  margin-top: 6px;
+  font-weight: lighter;
+}

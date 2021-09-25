@@ -1,0 +1,35 @@
+.suggestion {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.suggestion {
+  display: flex;
+  justify-content: space-between;
+}
+
+.suggestion a {
+  color: #0597f6;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.suggestion__group {
+  display: flex;
+}
+
+.suggestion__group .MuiAvatar-root {
+  margin-right: 15px;
+  width: 35px;
+  height: 35px;
+  margin-top: 4px;
+}
+
+.suggestion__group h3 {
+  font-size: 15px;
+}
+
+.suggestion__group p {
+  color: #acacac;
+}
