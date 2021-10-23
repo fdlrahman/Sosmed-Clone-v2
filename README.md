@@ -1,5 +1,6 @@
 <img src="https://c.tenor.com/ZhUttZgNkDQAAAAM/mr-bean-weird-face.gif" width="300" />
-## Habis Buat E-Commerce Sampai Ke Payment Gateaway
+
+# Habis Buat E-Commerce Sampai Ke Payment Gateaway
 
 Daripada aku habiskan waktu hanya untuk rebahan yang pastinya menyenangkan tapi wasting time.
 Aku coba untuk mencari pembangkit semangat yaitu :
