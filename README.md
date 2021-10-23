@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/ZhUttZgNkDQAAAAM/mr-bean-weird-face.gif" width="300" />
+<img src="https://c.tenor.com/ZhUttZgNkDQAAAAM/mr-bean-weird-face.gif" width="250" />
 
 # Habis Buat E-Commerce Sampai Ke Payment Gateaway Capek, Waktunya Istirahat.
 
